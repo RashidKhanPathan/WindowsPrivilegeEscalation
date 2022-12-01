@@ -1,0 +1,4 @@
+DLL Hijacking/Injection is a Windows Privilege Escalation Technique, some people consider this as a Vulnerability but it's not a Vulnerability it's Technique,
+now in this Research i have covered mine recently 0Day which i have found in ............ v.... this perticular application tries to load DLL that are not present
+in it's dir
+Now all Part's Will Coming Soon after 0Day get's Patched till please wait
